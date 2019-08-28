@@ -1,3 +1,3 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 
-print("This is an Ubuntu Docker running Python")
+print("Hello World! Made by asylvestro34.")
